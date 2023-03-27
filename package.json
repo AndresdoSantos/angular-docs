@@ -1,0 +1,24 @@
+{
+  "name": "angular-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.2",
+    "vite": "^4.2.1"
+  },
+  "dependencies": {
+    "@angular/common": "^15.2.4",
+    "@angular/compiler": "^15.2.4",
+    "@angular/core": "^15.2.4",
+    "@angular/platform-browser": "^15.2.4",
+    "rxjs": "^7.8.0",
+    "zone.js": "^0.13.0"
+  }
+}
